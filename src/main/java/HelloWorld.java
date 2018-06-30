@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("HelloWorld!");
         System.out.println("自动构建");
         System.out.println("自动构建2");
+        System.out.println("自动构建3");
     }
 }
