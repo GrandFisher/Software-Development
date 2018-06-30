@@ -12,5 +12,6 @@ public class HelloWorld {
         System.out.println("自动构建3");
         System.out.println("自动构建4");
         System.out.println("自动构建5");
+        System.out.println("自动构建6");
     }
 }
