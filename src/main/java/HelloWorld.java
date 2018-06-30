@@ -7,5 +7,6 @@ public class HelloWorld {
     public static void main(String[] args){
         System.out.println("HelloWorld!");
         System.out.println("自动构建");
+        System.out.println("自动构建1");
     }
 }
